@@ -7,7 +7,7 @@ Seriously, I'm telling you... I've never taken a coding class or anything.
 
 Most cogs will have a kpop spin on things, get over it, I'm addicted. 
 
-List of repositories, including URLs and the cogs they're used in
+List of repo's i've ~~stolen code from~~ edited, including URLs and the cogs they're used in
 -
 -
 -
